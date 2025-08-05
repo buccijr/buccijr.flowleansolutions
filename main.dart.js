@@ -108736,7 +108736,7 @@ $1(a){return new A.bw(new A.aoR(this.a),null)},
 $S:40}
 A.aoR.prototype={
 $2(a5,a6){var s,r,q,p,o,n,m,l,k,j,i,h,g=null,f="WorkSans",e="Inter",d=A.B(30),c=A.c(g,30,g),b=A.c(g,g,50),a=A.bai(B.i,10,B.pu,new A.bc(B.pH,0.4,B.J,-1)),a0=this.a,a1=a0.CW,a2=A.ac(B.eS,g,g,g),a3=t.Zx,a4=t.p
-a=A.o(A.a([b,A.ae(A.c(A.bag(new A.aoJ(a0,a6),A.a([new A.l_("Details",A.h("Process",g,g,g,A.i(g,g,B.o,g,g,g,g,g,f,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),a3),new A.l_("Permissions",A.h("Poll",g,g,g,A.i(g,g,B.o,g,g,g,g,g,f,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),a3)],t.CK),a1,a2,a,t.N),g,350),g,g),A.c(g,g,20),new A.cO(g),A.fg(g,g,A.ac(B.d2,g,g,g),g,g,new A.aoK(a0,a5,a6),g,g,g),A.c(g,g,20)],a4),B.e,B.aR,B.c)
+a=A.o(A.a([b,A.ae(A.c(A.bag(new A.aoJ(a0,a6),A.a([new A.l_("Details",A.h("Process",g,g,g,A.i(g,g,B.o,g,g,g,g,g,f,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),a3),new A.l_("Permissions",A.h("Pool",g,g,g,A.i(g,g,B.o,g,g,g,g,g,f,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g),a3)],t.CK),a1,a2,a,t.N),g,350),g,g),A.c(g,g,20),new A.cO(g),A.fg(g,g,A.ac(B.d2,g,g,g),g,g,new A.aoK(a0,a5,a6),g,g,g),A.c(g,g,20)],a4),B.e,B.aR,B.c)
 a2=A.ny(20,20,1)
 a1=A.c(g,10,g)
 if(a0.x){b=a0.as
@@ -108756,14 +108756,14 @@ k=A.h("|",g,g,g,A.i(g,g,g,g,g,g,g,g,g,g,g,18,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)
 j=A.c(g,g,7)
 n=A.o(A.a([n,new A.at(B.ap,g,g,A.o(A.a([m,l,k,j,A.im(!1,A.h("N",g,g,g,A.i(g,g,B.HX,g,g,g,g,g,g,g,g,18,g,g,a0.p1==="false"?B.m:B.G,g,g,!0,g,g,g,g,g,g,g,g),g,g),g,g,!0,g,g,g,g,new A.aoM(a0,a6),g,g)],a4),B.e,B.d,B.c),g),A.c(g,g,10),A.h("Is material movement?",g,g,g,A.i(g,g,g,g,g,g,g,g,e,g,g,16.5,g,g,g,g,g,!0,g,g,g,g,g,g,g,g),g,g)],a4),B.e,B.d,B.c)
 m=A.c(g,30,g)
-l=A.o(A.a([A.c(g,g,30),A.h("Add to existing poll (optional)",g,g,g,A.i(g,g,g,g,g,g,g,g,f,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)],a4),B.e,B.d,B.c)
+l=A.o(A.a([A.c(g,g,30),A.h("Add to existing pool (optional)",g,g,g,A.i(g,g,g,g,g,g,g,g,f,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)],a4),B.e,B.d,B.c)
 k=A.c(g,10,g)
 j=A.c(g,g,30)
 i=A.B(10)
 h=$.ah().b
 h===$&&A.b()
 i=A.a3(A.a([b,a3,s,r,q,o,p,n,m,l,k,A.o(A.a([j,A.C(g,new A.a7(B.y,A.bK(new A.aoN(a0,a6),h.H("process").P(0).a_("type","pool"),t.D),g),B.j,g,g,new A.y(B.W,g,g,i,g,g,g,B.k),g,45,g,g,g,g,g,400)],a4),B.e,B.d,B.c)],a4),B.e,B.d,B.c)
-b=i}else{b=A.o(A.a([A.c(g,g,30),A.h("Poll name",g,g,g,A.i(g,g,g,g,g,g,g,g,f,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)],a4),B.e,B.d,B.c)
+b=i}else{b=A.o(A.a([A.c(g,g,30),A.h("Pool name",g,g,g,A.i(g,g,g,g,g,g,g,g,f,g,g,16,g,g,B.m,g,g,!0,g,g,g,g,g,g,g,g),g,g)],a4),B.e,B.d,B.c)
 a3=A.c(g,10,g)
 s=A.c(g,g,30)
 r=A.c(g,g,30)
@@ -108850,7 +108850,7 @@ if(s||s)return A.h("No data found",p,p,p,p,p,p)
 r=J.t(o,0)
 o=J.A(r)
 if(o.gW(r))return A.ae(A.h("No pools found",p,p,p,A.i(p,p,p,p,p,p,p,p,"Inter",p,p,16,p,p,B.m,p,p,!0,p,p,p,p,p,p,p,p),p,p),p,p)
-s=A.a([A.bx(A.h("Select a poll...",p,p,p,A.i(p,p,p,p,p,p,p,p,"Inter",p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),"Select a process...",t.N)],t.eH)
+s=A.a([A.bx(A.h("Select a pool...",p,p,p,A.i(p,p,p,p,p,p,p,p,"Inter",p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p,p,p),p,p),"Select a process...",t.N)],t.eH)
 B.b.S(s,o.cs(r,new A.aot(),t.yQ))
 o=this.a
 q=o.cx
@@ -109170,7 +109170,7 @@ f=A.c(s,20,s)
 j=A.m(a,s,q).w
 q=A.m(a,s,q).w
 k=A.a([B.bM,B.bU],t.O)
-k=A.C(s,A.o(A.a([A.c(s,s,20),A.c(s,s,40),A.c(s,s,20),A.c(A.h("Name",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,250),A.c(s,s,20),A.c(A.h("Poll",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,200),A.c(s,s,20),A.c(A.h("Material Movement",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,200),new A.cO(s),A.c(A.h("",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,200),A.c(s,s,30)],m),B.e,B.d,B.c),B.j,s,s,new A.y(s,s,s,new A.bY(new A.am(16,16),new A.am(16,16),B.D,B.D),s,new A.cD(B.z,B.az,B.a1,k,s,s),s,B.k),s,60,s,s,s,s,s,1/0)
+k=A.C(s,A.o(A.a([A.c(s,s,20),A.c(s,s,40),A.c(s,s,20),A.c(A.h("Name",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,250),A.c(s,s,20),A.c(A.h("Pool",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,200),A.c(s,s,20),A.c(A.h("Material Movement",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,200),new A.cO(s),A.c(A.h("",s,s,s,A.i(s,s,s,s,s,s,s,s,r,s,s,15,s,s,B.m,s,s,!0,s,s,s,s,s,s,s,s),s,s),s,200),A.c(s,s,30)],m),B.e,B.d,B.c),B.j,s,s,new A.y(s,s,s,new A.bY(new A.am(16,16),new A.am(16,16),B.D,B.D),s,new A.cD(B.z,B.az,B.a1,k,s,s),s,B.k),s,60,s,s,s,s,s,1/0)
 l=$.ah().b
 l===$&&A.b()
 l=l.H("process").i1(0,A.a(["id"],t.s))
